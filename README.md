@@ -11,3 +11,10 @@ react-scripts, classnames
 
 ## Description
 An application that allows you to create a to-do list (tasks) for an authorized user. With the ability to delete and edit (change description, mark as completed) tasks from the list. And also with the preservation of the current list after exiting the browser (information is saved in localStorage)
+
+## How to use:
+-> In the "Email" field, enter any email (for example, mail@com)
+
+-> In the "Name" field, enter any text (for example, John)
+
+-> Work with the application
