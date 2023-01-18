@@ -2,9 +2,9 @@
 
 **DEMO LINK**: https://hlazman.github.io/todo-app/
 
-**Used technologies**: React, TypeScript, HTML5, CSS3(Scss).
+**Used technologies**: React, TypeScript, JavaScript, HTML5, CSS3(Scss).
 
-**Dependencies**: react, react-dom, react-router-dom,
+**Dependencies**: react, react-dom, react-router-dom bulma,
 react-scripts, classnames
 
 **devDependencies**: cypress, cypress/react, cypress/webpack-dev-server, types/node, types/react, types/react-dom, eslint, mochawesome, mochawesome-merge, mochawesome-report-generator, node-sass, stylelint, typescript, react-transition-group
