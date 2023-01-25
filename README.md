@@ -2,7 +2,7 @@
 
 **DEMO LINK**: https://hlazman.github.io/todo-app/
 
-**Used technologies**: React, TypeScript, JavaScript, HTML5, CSS3(Scss).
+**Used technologies**: React, TypeScript, JavaScript, HTML5, CSS3(SCSS).
 
 **Dependencies**: react, react-dom, react-router-dom bulma,
 react-scripts, classnames
